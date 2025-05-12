@@ -27,4 +27,4 @@ This project focuses on public health and nutrition analysis using data science.
 * xgboost
 * openpyxl
 Install them via:
-<pre> ```bash pip install pandas scikit-learn xgboost openpyxl ``` </pre>
+<pre> bash pip install pandas scikit-learn xgboost openpyxl </pre>
